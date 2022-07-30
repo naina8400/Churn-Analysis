@@ -65,7 +65,6 @@ It has 7043 datapoints and 21 fields or attributes.
 - ANN Model
 
 ## Dashboard Visualization
-![dashpic1](https://user-images.githubusercontent.com/66205648/181995213-c5edda93-9973-4544-84b3-4bb3439c8865.png)
 
 ![dashpic2](https://user-images.githubusercontent.com/66205648/181995225-a9da879b-bfda-46fc-9a1f-85a9a89dd8be.png)
 
