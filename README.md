@@ -20,8 +20,7 @@ Telephone service companies, Internet service providers, pay TV companies, insur
 - Model Development
 - Prediction/Result
 - Dashboard Visualization
-- Conclusion
-- References
+- Future Scope
 ## About Dataset
 
 The dataset was a made up telco subscription data set for a fictional telco company.
